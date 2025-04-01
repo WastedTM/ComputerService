@@ -1,0 +1,40 @@
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 120px;
+    padding: 37px 15px;
+}
+
+header ul {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    column-gap: 65px;
+    row-gap: 10px;
+}
+
+header ul li {
+    transition: transform 500ms ease;
+}
+
+header ul li:hover{
+    transform: scale(1.1);
+}
+
+header a{
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+
+    color: #F7F7FA;
+}
+
+header h1{
+    font-size: 2rem;
+}

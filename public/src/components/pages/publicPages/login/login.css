@@ -1,0 +1,76 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+    width: 100%;
+}
+
+.split-form {
+    display: flex;
+    background: white;
+    border-radius: 20px;
+    overflow: hidden;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.split-form .image-side {
+    flex: 1;
+    background: linear-gradient(45deg, #151845, #3b78eb);
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+.split-form .form-side {
+    flex: 1;
+    padding: 3rem;
+}
+
+.split-form .form-side h2{
+    font-size: 2rem;
+    color: #222222;
+}
+
+.split-form input {
+    width: 100%;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    border: none;
+    border-bottom: 2px solid #eee;
+    outline: none;
+    transition: border-color 0.3s;
+}
+
+.split-form input:focus {
+    border-bottom-color: #203374;
+}
+
+.split-form button {
+    width: 100%;
+    padding: 1rem;
+    margin-top: 1.5rem;
+    background: #203374;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: transform 0.3s;
+}
+
+.split-form button:hover {
+    transform: translateY(-2px);
+}
+
+.error{
+    color: red;
+    margin-top: 10px;
+}
