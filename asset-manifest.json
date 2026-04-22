@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.64059624.css",
-    "main.js": "/static/js/main.5c306bfa.js",
-    "static/media/advantages-background-image.jpg": "/static/media/advantages-background-image.e21f7c65c405d66ee87b.jpg",
-    "static/media/main-background-image.jpg": "/static/media/main-background-image.c6b6c9c89546a7366bef.jpg",
-    "index.html": "/index.html",
-    "main.64059624.css.map": "/static/css/main.64059624.css.map",
-    "main.5c306bfa.js.map": "/static/js/main.5c306bfa.js.map"
+    "main.css": "/ComputerService/static/css/main.5ab6adca.css",
+    "main.js": "/ComputerService/static/js/main.91df1d1b.js",
+    "static/media/advantages-background-image.jpg": "/ComputerService/static/media/advantages-background-image.e21f7c65c405d66ee87b.jpg",
+    "static/media/main-background-image.jpg": "/ComputerService/static/media/main-background-image.c6b6c9c89546a7366bef.jpg",
+    "index.html": "/ComputerService/index.html",
+    "main.5ab6adca.css.map": "/ComputerService/static/css/main.5ab6adca.css.map",
+    "main.91df1d1b.js.map": "/ComputerService/static/js/main.91df1d1b.js.map"
   },
   "entrypoints": [
-    "static/css/main.64059624.css",
-    "static/js/main.5c306bfa.js"
+    "static/css/main.5ab6adca.css",
+    "static/js/main.91df1d1b.js"
   ]
 }
