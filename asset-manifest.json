@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ComputerService/static/css/main.5ab6adca.css",
+    "main.js": "/ComputerService/static/js/main.5c306bfa.js",
+    "static/media/advantages-background-image.jpg": "/ComputerService/static/media/advantages-background-image.e21f7c65c405d66ee87b.jpg",
+    "static/media/main-background-image.jpg": "/ComputerService/static/media/main-background-image.c6b6c9c89546a7366bef.jpg",
+    "index.html": "/ComputerService/index.html",
+    "main.5ab6adca.css.map": "/ComputerService/static/css/main.5ab6adca.css.map",
+    "main.5c306bfa.js.map": "/ComputerService/static/js/main.5c306bfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ab6adca.css",
+    "static/js/main.5c306bfa.js"
+  ]
+}
